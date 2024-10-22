@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a research scientist at Virginia Tech in the Engineering Education department. My research interests include exploring generative AI and natural language processing for qualitative engineering education research.
 
 <!--
 **gcflem/gcflem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
